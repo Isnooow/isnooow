@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Isno Wahno Putro</h1>
 <h3 align="center">A passionate Mobile Development and Internet of Things</h3>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121198151/292609681-9318adcf-0ab7-4405-92a8-64fe383c1377.gif">
+![337af398877b856f25624144420a5230](https://github.com/Isnooow/isnooow/assets/121198151/b268a64f-f2f5-4414-b73b-5eec3a645b24)
 
 
 - 💬 Ask me about **Android and IoT**
