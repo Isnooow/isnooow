@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Isno Wahno Putro</h1>
-<h3 align="center">A passionate Mobile Development and Internet of Things</h3>
+<h3 align="center">A passionate Quality Testig and Android Development</h3>
 
 ![337af398877b856f25624144420a5230](https://github.com/Isnooow/isnooow/assets/121198151/b268a64f-f2f5-4414-b73b-5eec3a645b24)
 
